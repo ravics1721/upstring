@@ -1,13 +1,24 @@
 {
   "name": "upstring",
   "version": "0.1.0",
+  "author": {
+    "name": "Ravi Bharti",
+    "url": "https://github.com/ravics1721"
+  },
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.11.3",
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
     "@testing-library/user-event": "^12.6.2",
+    "dotenv": "^8.2.0",
+    "firebase": "^8.2.4",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-firebase-hooks": "^2.2.0",
+    "react-grid-layout": "^1.2.0",
+    "react-rainbow-components": "^1.24.1",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.1",
     "web-vitals": "^0.2.4"
   },

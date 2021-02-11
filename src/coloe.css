@@ -1,0 +1,28 @@
+Dark {
+  --primary: #424949;
+  --seconary: #5dade2;
+  --accent: #ec7063;
+  --hue: #a569bd;
+  --light: #fbfcfc;
+}
+Light {
+  --primary: #1f618d;
+  --seconary: #154360;
+  --accent: #5499c7;
+  --hue: #d6dbdf;
+  --light: #f4f6f6;
+}
+Third {
+  --primary: #4a235a;
+  --seconary: #73c6b6;
+  --accent: #884ea0;
+  --hue: #d5d8dc;
+  --light: #f8f9f9;
+}
+Extra {
+  --primary: #85c1e9;
+  --seconary: #ec7063;
+  --accent: #f4d03f;
+  --hue: #212f3d;
+  --light: #7f8c8d;
+}
